@@ -1,0 +1,18 @@
+body{
+	background: salmon;
+	width: 800px;
+	margin: 200px auto;
+	font-family: 'Merriweather', serif;
+	font-size: 100%;
+}
+h3{
+	color: purple;
+}
+p{
+	color: purple;
+	border: 1px solid gray;
+	padding: 10px;
+}
+section{
+	text-align: center;
+}
